@@ -1,0 +1,11 @@
+## Status Log
+- [x] Data collection — ✅ Complete
+- [x] Analysis — ✅ Complete
+- [x] Figures — ✅ Complete (4 publication figures)
+- [ ] Manuscript draft — 🔄 In progress
+- [ ] Internal review
+- [ ] Journal submission
+- [ ] Peer review
+- [ ] Revision
+- [ ] Acceptance
+- [ ] Publication
